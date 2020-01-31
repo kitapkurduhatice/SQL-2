@@ -10,3 +10,7 @@ SQL kodlarını yazma
 4. Job tanımındaki limitlerin altında veya üstünde kalan personel (varsa) ünvan, maaş, ünvan maaş limitleri, isimleri ve departman isimleriyle birlikte listeleyin.
 
 5. US dışındaki ülkelerdeki lokasyonlardaki departmanlardan personel iş değişimi yaşanmışları listeleyin
+
+Not: Sorguları yazarken ekteki db şeması çiziminden yardım alabilirsiniz. Şema elinizdeki veritabanından farklı ise veritabanınızı baz alın.
+
+![oracle_hr_schema](https://user-images.githubusercontent.com/34796984/73571911-b5833900-4480-11ea-8c63-de18033600f6.jpg)
